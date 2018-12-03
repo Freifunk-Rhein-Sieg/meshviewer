@@ -1,4 +1,6 @@
 // Config for Freifunk Rhein-sieg e.V. common map
+// technik <technik@freifunk-siegburg.de>
+
 module.exports = function () {
   return {
     // Variables are NODE_ID and NODE_NAME (only a-z0-9\- other chars are replaced with _)
