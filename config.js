@@ -114,6 +114,11 @@ module.exports = function () {
 
       },
       {
+        'domain': 'su-mck',
+        'name': 'Meckenheim'
+
+      },
+      {
         'domain': 'inn',
         'name': 'Troisdorf Innenstadt'
 
