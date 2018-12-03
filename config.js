@@ -65,7 +65,7 @@ module.exports = function () {
           'attribution': 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
         }
       }
-    ]
+    ],
     // Set a visible frame
     'fixedCenter': [
       // Northwest
